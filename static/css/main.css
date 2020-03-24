@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+.postbox {
+    background-color: aqua;
+    margin: 2px;
+    border-radius: 2px;
+    padding: 5px;
+}
+.sujets,
+.convives {
+    background-color: #DDDDDD;
+    height: 100%
+}
